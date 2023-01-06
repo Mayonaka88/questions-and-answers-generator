@@ -11,3 +11,7 @@
 >The user inputs thier text and the program would then extract information from it. This information would then be used to generate questions and thier respective awnsers with alternative choices to go along with it.
 
 >The output is in the style of a multiple choice question.
+
+>Run packages.ipynb to install the required packages
+
+>Run main.py to execute the web app then follow the instructions on the terminal.
